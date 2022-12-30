@@ -10,17 +10,10 @@
     "build": "webpack --mode production",
     "lint": "eslint src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yysun/realworld-starter-kit.git"
-  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yysun/realworld-starter-kit/issues"
-  },
-  "homepage": "https://github.com/yysun/realworld-starter-kit#readme",
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@types/marked": "^4.0.0",
