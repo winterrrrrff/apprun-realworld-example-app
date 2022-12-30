@@ -6,7 +6,7 @@ module.exports = {
   },
   output: {
     filename: '[name].js',
-    path: path.resolve(__dirname)
+    path: path.resolve(__dirname, 'dist/assets')
   },
   resolve: {
     extensions: ['.ts', '.tsx', '.js']
